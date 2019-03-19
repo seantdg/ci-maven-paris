@@ -1,2 +1,5 @@
 context.setVariable('target.copy.pathsuffix', false);
-context.setVariable('author', 'sean');
+context.setVariable('author', 'paul');
+
+if(true){
+
